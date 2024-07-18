@@ -1,6 +1,6 @@
 # Docker Images Pusher
 
-## 在 images.txt 添加你需要的镜像
+在 images.txt 添加你需要的镜像，新添加镜像，需要等待1分钟同步。
 
 ## 常用镜像
 ```bash
